@@ -1,0 +1,115 @@
+{
+  "": {
+    "dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/CursorBark.d",
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/CursorBark.o",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/primary.swiftdeps"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/AppModel.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/AppModel.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/AppModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/AppModel.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/AppModel.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/CursorBarkApp.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/CursorBarkApp.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/CursorBarkApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/CursorBarkApp.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/CursorBarkApp.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Models/AgentEvent.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/AgentEvent.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/AgentEvent~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/AgentEvent.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/AgentEvent.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Models/AppConfig.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/AppConfig.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/AppConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/AppConfig.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/AppConfig.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Models/ConversationItem.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/ConversationItem.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/ConversationItem~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/ConversationItem.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/ConversationItem.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Services/BarkClient.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/BarkClient.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/BarkClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/BarkClient.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/BarkClient.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Services/DesktopWidgetManager.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/DesktopWidgetManager.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/DesktopWidgetManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/DesktopWidgetManager.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/DesktopWidgetManager.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Services/ExtensionBridgeClient.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/ExtensionBridgeClient.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/ExtensionBridgeClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/ExtensionBridgeClient.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/ExtensionBridgeClient.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Services/LaunchAtLogin.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/LaunchAtLogin.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/LaunchAtLogin~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/LaunchAtLogin.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/LaunchAtLogin.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Services/LocalNotifier.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/LocalNotifier.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/LocalNotifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/LocalNotifier.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/LocalNotifier.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Services/SharedProgressStore.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/SharedProgressStore.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/SharedProgressStore~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/SharedProgressStore.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/SharedProgressStore.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Views/ConversationsPanelView.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/ConversationsPanelView.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/ConversationsPanelView~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/ConversationsPanelView.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/ConversationsPanelView.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Views/DashboardPanelView.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/DashboardPanelView.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/DashboardPanelView~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/DashboardPanelView.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/DashboardPanelView.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Views/MainDashboardView.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/MainDashboardView.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/MainDashboardView~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/MainDashboardView.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/MainDashboardView.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Views/MenuBarStatusView.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/MenuBarStatusView.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/MenuBarStatusView~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/MenuBarStatusView.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/MenuBarStatusView.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Views/SettingsView.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/SettingsView.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/SettingsView~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/SettingsView.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/SettingsView.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/Sources/CursorBark/Views/WidgetsPanelView.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/WidgetsPanelView.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/WidgetsPanelView~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/WidgetsPanelView.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/WidgetsPanelView.dia"
+  },
+  "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/DerivedSources/resource_bundle_accessor.swift": {
+    "object": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/flower./Desktop/cursor/cursor-bark/CursorBark/.build/x86_64-apple-macosx/release/CursorBark.build/resource_bundle_accessor.dia"
+  }
+}

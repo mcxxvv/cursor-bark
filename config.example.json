@@ -1,0 +1,22 @@
+{
+  "enabled": true,
+  "bark": {
+    "device_key": "在此填入 Bark Device Key",
+    "server_url": "https://api.day.app",
+    "group": "Cursor",
+    "level": "timeSensitive",
+    "sound": "",
+    "icon": ""
+  },
+  "monitor": {
+    "extension_host": "127.0.0.1",
+    "extension_port": 8766,
+    "notify_subagents": true,
+    "notify_on_error": false,
+    "include_summary": true,
+    "summary_max_chars": 180,
+    "monitor_mode": "selected",
+    "monitored_conversation_ids": [],
+    "notify_on_task_start": true
+  }
+}

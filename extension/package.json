@@ -1,0 +1,77 @@
+{
+  "name": "cursor-bark-bridge",
+  "displayName": "Cursor Bark Bridge",
+  "description": "监听 Cursor Agent 对话状态，通过本地端口向 Cursor Bark 推送",
+  "version": "0.1.3",
+  "publisher": "cursor-bark",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cursor-bark/cursor-bark"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [
+    "onStartupFinished",
+    "onCommand:cursorBarkBridge.showStatus",
+    "onCommand:cursorBarkBridge.installHooks",
+    "onCommand:cursorBarkBridge.openHealth"
+  ],
+  "main": "./out/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "cursorBarkBridge.showStatus",
+        "title": "Cursor Bark: 显示桥接状态"
+      },
+      {
+        "command": "cursorBarkBridge.installHooks",
+        "title": "Cursor Bark: 安装/更新 Hooks"
+      },
+      {
+        "command": "cursorBarkBridge.openHealth",
+        "title": "Cursor Bark: 打开健康检查"
+      }
+    ],
+    "configuration": {
+      "title": "Cursor Bark Bridge",
+      "properties": {
+        "cursorBarkBridge.port": {
+          "type": "number",
+          "default": 8766,
+          "description": "本地 HTTP 桥接端口，Cursor Bark 应用连接此端口获取状态"
+        },
+        "cursorBarkBridge.host": {
+          "type": "string",
+          "default": "127.0.0.1",
+          "description": "桥接服务监听地址"
+        },
+        "cursorBarkBridge.autoInstallHooks": {
+          "type": "boolean",
+          "default": true,
+          "description": "扩展激活时自动安装 Cursor Hooks"
+        },
+        "cursorBarkBridge.pollComposerMetaMs": {
+          "type": "number",
+          "default": 5000,
+          "description": "刷新对话标题/打开状态的间隔（毫秒）"
+        }
+      }
+    }
+  },
+  "scripts": {
+    "compile": "tsc -p .",
+    "watch": "tsc -watch -p .",
+    "package": "npm run compile && vsce package --no-dependencies --allow-missing-repository"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.0",
+    "@types/vscode": "^1.85.0",
+    "@vscode/vsce": "^3.2.1",
+    "typescript": "^5.7.2"
+  }
+}
